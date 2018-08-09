@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: stack-error
+Version: 0.1
+Summary: UNKNOWN
+Home-page: https://github.com/nick9999/stack_error
+Author: nick9999
+Author-email: nikhilpatil123@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: BeautifulSoup4
+Requires: requests
+Requires: urllib3
