@@ -10,6 +10,7 @@ setup(
     url="https://github.com/nick9999/stack_error",
     author="nick9999",
     author_email="nikhilpatil123@gmail.com",
+    description="Stack overflow error integration",
     include_package_data=True,
     packages=["stack_error"],
     entry_points={"console_scripts": ["stack_error = stack_error.stack_error:main"]},
